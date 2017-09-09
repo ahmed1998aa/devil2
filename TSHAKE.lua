@@ -2578,8 +2578,8 @@ local pin_id = database:get('pinnedmsg'..msg.chat_id_)
 الانكليزية 🇱🇷 
 الدردشه 🗣
 
-DEV : @Jozef3 
-DEV : @AHMED1998A*
+DEV : @AHMED1998A
+DEV : @U_U_I*
 ]]
                 send(msg.chat_id_, msg.id_, 1, text, 1, 'md')
    end
